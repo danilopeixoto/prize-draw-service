@@ -1,0 +1,212 @@
+[
+  {
+    "_class": "com.meli.prizedraw.api.model.StudentModel",
+    "id": 1,
+    "name": "Felipe Silva",
+    "birth_date": "1990-01-09",
+    "grade": 0.8
+  },
+  {
+    "_class": "com.meli.prizedraw.api.model.StudentModel",
+    "id": 2,
+    "name": "Karen Walter",
+    "birth_date": "1991-01-09",
+    "grade": 0.87
+  },
+  {
+    "_class": "com.meli.prizedraw.api.model.StudentModel",
+    "id": 3,
+    "name": "Henrique Peixoto",
+    "birth_date": "1992-01-09",
+    "grade": 0.92
+  },
+  {
+    "_class": "com.meli.prizedraw.api.model.StudentModel",
+    "id": 4,
+    "name": "Amanda Ferreira",
+    "birth_date": "1993-01-09",
+    "grade": 0.14
+  },
+  {
+    "_class": "com.meli.prizedraw.api.model.StudentModel",
+    "id": 5,
+    "name": "Lionel Ribeiro Teixeira",
+    "birth_date": "1995-01-09",
+    "grade": 0.77
+  },
+  {
+    "_class": "com.meli.prizedraw.api.model.StudentModel",
+    "id": 6,
+    "name": "Amara Samantha",
+    "birth_date": "1995-01-09",
+    "grade": 0.61
+  },
+  {
+    "_class": "com.meli.prizedraw.api.model.StudentModel",
+    "id": 7,
+    "name": "Leonardo Camello Dietro",
+    "birth_date": "1993-01-05",
+    "grade": 0.93
+  },
+  {
+    "_class": "com.meli.prizedraw.api.model.StudentModel",
+    "id": 8,
+    "name": "Amy Williams",
+    "birth_date": "1998-01-09",
+    "grade": 0.12
+  },
+  {
+    "_class": "com.meli.prizedraw.api.model.StudentModel",
+    "id": 9,
+    "name": "Roberto Santos",
+    "birth_date": "1991-01-13",
+    "grade": 0.54
+  },
+  {
+    "_class": "com.meli.prizedraw.api.model.StudentModel",
+    "id": 10,
+    "name": "Lucas Peixoto Ferreira",
+    "birth_date": "1998-01-09",
+    "grade": 0.94
+  },
+  {
+    "_class": "com.meli.prizedraw.api.model.StudentModel",
+    "id": 11,
+    "name": "Bernadete Jerico",
+    "birth_date": "1998-01-09",
+    "grade": 0.97
+  },
+  {
+    "_class": "com.meli.prizedraw.api.model.StudentModel",
+    "id": 12,
+    "name": "Maria Cooper",
+    "birth_date": "1991-01-09",
+    "grade": 0.92
+  },
+  {
+    "_class": "com.meli.prizedraw.api.model.StudentModel",
+    "id": 13,
+    "name": "Denzel Roberto Gomes",
+    "birth_date": "1992-01-26",
+    "grade": 0.89
+  },
+  {
+    "_class": "com.meli.prizedraw.api.model.StudentModel",
+    "id": 14,
+    "name": "Camila Henrique Alto",
+    "birth_date": "1999-01-09",
+    "grade": 0.81
+  },
+  {
+    "_class": "com.meli.prizedraw.api.model.StudentModel",
+    "id": 15,
+    "name": "Ana Maria Silva",
+    "birth_date": "1994-01-09",
+    "grade": 0.88
+  },
+  {
+    "_class": "com.meli.prizedraw.api.model.StudentModel",
+    "id": 16,
+    "name": "John Derek Silva",
+    "birth_date": "1994-01-12",
+    "grade": 0.16
+  },
+  {
+    "_class": "com.meli.prizedraw.api.model.StudentModel",
+    "id": 17,
+    "name": "Fabio Matriz",
+    "birth_date": "1998-01-09",
+    "grade": 0.21
+  },
+  {
+    "_class": "com.meli.prizedraw.api.model.StudentModel",
+    "id": 18,
+    "name": "Emma Roemer",
+    "birth_date": "1992-01-02",
+    "grade": 0.52
+  },
+  {
+    "_class": "com.meli.prizedraw.api.model.StudentModel",
+    "id": 19,
+    "name": "Kiro Robert",
+    "birth_date": "1999-01-01",
+    "grade": 0.33
+  },
+  {
+    "_class": "com.meli.prizedraw.api.model.StudentModel",
+    "id": 20,
+    "name": "Gustavo Roberto Walter",
+    "birth_date": "1997-10-09",
+    "grade": 0.66
+  },
+  {
+    "_class": "com.meli.prizedraw.api.model.StudentModel",
+    "id": 21,
+    "name": "Danilo Peixoto Ferreira",
+    "birth_date": "1993-11-09",
+    "grade": 0.67
+  },
+  {
+    "_class": "com.meli.prizedraw.api.model.StudentModel",
+    "id": 22,
+    "name": "Maria Elizabeth Demore",
+    "birth_date": "1995-07-09",
+    "grade": 0.41
+  },
+  {
+    "_class": "com.meli.prizedraw.api.model.StudentModel",
+    "id": 23,
+    "name": "João Gome Linter",
+    "birth_date": "1993-03-09",
+    "grade": 0.46
+  },
+  {
+    "_class": "com.meli.prizedraw.api.model.StudentModel",
+    "id": 24,
+    "name": "Antônio José Amadeu",
+    "birth_date": "1991-03-09",
+    "grade": 0.74
+  },
+  {
+    "_class": "com.meli.prizedraw.api.model.StudentModel",
+    "id": 25,
+    "name": "Karen Lopes Ribeiro",
+    "birth_date": "1998-08-09",
+    "grade": 0.82
+  },
+  {
+    "_class": "com.meli.prizedraw.api.model.StudentModel",
+    "id": 26,
+    "name": "Lucas Felipe Reltier",
+    "birth_date": "1998-01-09",
+    "grade": 0.56
+  },
+  {
+    "_class": "com.meli.prizedraw.api.model.StudentModel",
+    "id": 27,
+    "name": "Ana Beatriz Silva",
+    "birth_date": "1997-02-09",
+    "grade": 0.89
+  },
+  {
+    "_class": "com.meli.prizedraw.api.model.StudentModel",
+    "id": 28,
+    "name": "Joaquim Pereira Gomes",
+    "birth_date": "1999-10-09",
+    "grade": 0.57
+  },
+  {
+    "_class": "com.meli.prizedraw.api.model.StudentModel",
+    "id": 29,
+    "name": "Ana Luísa Silva",
+    "birth_date": "1992-12-09",
+    "grade": 0.34
+  },
+  {
+    "_class": "com.meli.prizedraw.api.model.StudentModel",
+    "id": 30,
+    "name": "Maria Roberta Ferreira",
+    "birth_date": "1998-01-09",
+    "grade": 0.83
+  }
+]

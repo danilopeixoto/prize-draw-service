@@ -1,0 +1,26 @@
+spring:
+  webflux:
+    base-path: /api/v1
+  jpa:
+    database: POSTGRESQL
+    hibernate:
+      dialect: org.hibernate.dialect.PostgreSQLDialect
+      ddl-auto: create
+  datasource:
+    platform: postgres
+    driverClassName: org.postgresql.Driver
+    url: jdbc:postgresql://localhost:5432/database
+    username: administrator
+    password: HZq4U3q5A6EsLKR
+
+server:
+  port: 8080
+
+api:
+  version: v1
+
+springdoc:
+  api-docs:
+    path: /openapi
+  swagger-ui:
+    path: /docs
